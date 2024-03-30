@@ -3,7 +3,7 @@ update_config=1
 country=IN
 
 network={
- ssid="Lavanya"
- psk="987654321"
+ ssid="SSID"
+ psk="pswd"
 
 }
