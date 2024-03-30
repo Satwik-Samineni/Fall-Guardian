@@ -26,7 +26,7 @@ Windows Laptop/System
 
 ->Connect the Raspberry Pi to your system using HDMI (for desktop) or using Putty and RealVNC Viewer for laptops through wired or wireless connection.
 
-wpa_supplicant.conf file can be used for Wirelsess Connections.This should be placed in bootfs drive aka Memory Card Of Pi.And Should Use A Single wifi for both Pi And System To Connect.SSID And pass Key should be mentioned in the file inorder to connect
+wpa_supplicant.conf file can be used for Wirelsess Connections.This should be placed in bootfs drive aka Memory Card Of Pi.And Should Use A Single wifi for both Pi And System To Connect.SSID And pass Key should be mentioned in the file inorder to connect.This File Should be saved as configuration file named "wpa_supplicant.conf".Please check this properly and Change Your credentials accordingly in SSId And pswd fields mention inside the file.
 
 Make the sensor connections according to the provided specifications.
 
