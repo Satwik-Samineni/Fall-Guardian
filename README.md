@@ -1,5 +1,5 @@
 
-FALL GUARDIAN
+#FALL GUARDIAN
 Fall Guardian is a human fall detection system designed and implemented using MPU6050 sensor technology. This intelligent system detects falls in real-time.
 
 Installation
