@@ -13,7 +13,7 @@ Navigate to the extracted folder to access the project files.
 Option 2: Cloning Repository
 bash
 Copy code
-git clone https://github.com/your-username/fall-guardian.git
+git clone https://github.com/Satwik-Samineni/fall-guardian.git
 
 Usage
 Devices/Components Required
